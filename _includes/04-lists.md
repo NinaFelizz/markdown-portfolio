@@ -3,5 +3,5 @@
 - :sun_with_face: :smile_cat:
 - :runner: :sweat_drops:
 - :smile_cat: :shower:
-- :muscle: :heart_eyes_cat:
+- :tea: :heart_eyes_cat:
 - :office:
